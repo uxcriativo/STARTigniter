@@ -2,10 +2,11 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * 
- * CleanIgniter v1.0#
+ * STARTIgniter v1.0#
  * Configuration;
  * */
 $config['FolderTemplate'] = "../../views/";
+$config['title_project'] = 'STARTigniter 0.1';
 $config['language'] = "portuguese";
 $config['language_abbr'] = "pt";
 $config['lang_uri_abbr'] = array("pt" => "portuguese", "en" => "english", "es" => "español","fr" => "french","ge" => "germany");
